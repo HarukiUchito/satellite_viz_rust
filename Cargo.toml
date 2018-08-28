@@ -1,0 +1,6 @@
+[package]
+name = "satellite_viz_rust"
+version = "0.1.0"
+authors = ["Haruki Uchiito <uhcahriuiktio0114@outlook.com>"]
+
+[dependencies]
