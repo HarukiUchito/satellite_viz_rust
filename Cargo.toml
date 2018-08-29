@@ -4,3 +4,12 @@ version = "0.1.0"
 authors = ["Haruki Uchiito <uhcahriuiktio0114@outlook.com>"]
 
 [dependencies]
+gnuplot = "*"
+
+rosrust = "0.6.5"
+rosrust_codegen = "0.6.5"
+serde = "1.0.25"
+serde_derive = "1.0.25"
+
+[build-dependencies]
+rosrust_codegen = "0.6.5"
